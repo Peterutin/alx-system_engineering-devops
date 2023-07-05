@@ -1,2 +1,1 @@
-wc 
--l touch hello 
+wc -l
